@@ -7,6 +7,8 @@
 
 `better-gtd.nvim` enhances the default `gd` (go to definition) behavior by opening definitions in vertical splits with smart window management. It keeps your context visible while exploring code definitions.
 
+![Demo](assets/better-gtd.gif)
+
 ## ✨ Features
 
 - **Smart Vertical Split Navigation** - Opens definitions in vertical splits instead of replacing the current window
